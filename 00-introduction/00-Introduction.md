@@ -19,7 +19,7 @@ A programação funcional é muito poderosa, robusta e elegante; extremamente ú
 
 Neste livro, aprenderemos grande parte do necessário sobre a programação funcional com JavaScript, a emponderarmos aplicações web mediante o uso de "JavaScript Funcional", a desbloquear seus poderes secretos permitindo-nos escrever programas mais curtos e poderosos, mais rápidos, pois num piscar de olhos são transmitidos pela camada TCP devido ao ínfimo tamanho. Veremos a ideia central do paradigma funcional e como aplicá-lo com o auxílio da JavaScript, um passo-a-passo de problemas e precauções que podem surgir, e juntamente, a programação orientada a objetos que será o nosso auxílio - "auxílio do auxílio".
 
-#### Demonstação
+#### Demonstração
 Talvez seja uma rápida demonstração a melhor maneira de iniciarmos com o paradigma funcional. Realizaremos uma só tarefa de duas maneiras, na primeira utilizaremos os métodos já existentes no 'Core' e noutra o paradigma funcional. Em seguida, compararemos os dois métodos.
 
 #### A aplicação – an e-commerce website
